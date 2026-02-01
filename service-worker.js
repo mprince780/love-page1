@@ -1,4 +1,6 @@
-const cacheName = "love-pwa-v1";
+ 
+const cacheName = "love-pwa-v2";
+
 
 const filesToCache = [
   "./",
